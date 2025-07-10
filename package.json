@@ -18,5 +18,8 @@
   "homepage": "https://github.com/svetapelsin/qa-auto-engineer-javascript-project-87#readme",
   "dependencies": {
     "commander": "^14.0.0"
+  },
+  "bin": {
+  "gendiff": "./gendiff.js"
   }
 }
